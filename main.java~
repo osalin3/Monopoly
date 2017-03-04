@@ -1,0 +1,6 @@
+public class main
+{
+  Random generator = new Random();
+  amount = 200 - generator.nextInt(401);
+  return amount;
+}
